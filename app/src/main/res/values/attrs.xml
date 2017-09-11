@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClickableTextView">
+        <attr name="highlightTextColor" format="color" />
+        <attr name="highlightText" format="string" />
+    </declare-styleable>
+</resources>
